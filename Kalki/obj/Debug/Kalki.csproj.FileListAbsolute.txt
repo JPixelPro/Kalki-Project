@@ -1,0 +1,17 @@
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Kalki.exe.config
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Kalki.exe
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Kalki.pdb
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\Bunifu.Core.dll
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.csprojResolveAssemblyReference.cache
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.Form1.resources
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.Properties.Resources.resources
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.csproj.GenerateResource.Cache
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.exe
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.pdb
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.order.resources
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\MetroFramework.dll
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\bin\Debug\MetroFramework.Fonts.dll
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.front.resources
+D:\Training_pp\JPix\KalkiProject\Kalki\Kalki\obj\Debug\Kalki.retail.resources
